@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.grid{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    grid-template-rows: auto;
+    cursor: pointer;
+    align-items: center;
+    margin-left: auto;
+    margin-top: auto;
+    position:absolute;
+    top: 35%;
+    left: 39%;
+    height: 300px;
+    width: 300px;
+    border:solid;
+}
+.status{
+    padding-top: 2.5vh;
+    margin-top: 5vh;
+    background-color: black;
+    font-size: 100%;
+    font-weight: 900;
+    text-align: center ;
+    height: 10vh;
+    font-size: 200%;
+    color: white;
+}

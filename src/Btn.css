@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    font-weight: 900;
+   border: 15px;
+   font-family:'Courier New', Courier, monospace;
+    font-size: 250%;
+    text-align: center;
+    vertical-align: center;
+    height: 100px;
+    width: 100px; 
+    border-style:solid;
+}
+.zero{  
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: white;
+   border-bottom-color: white;   
+}
+.one{  
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: black;
+   border-bottom-color: white;   
+}
+.two{  
+    border-top-color: black;
+    border-left-color: white;
+    border-right-color: black;
+   border-bottom-color: white;   
+}
+.three{
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: white;
+   border-bottom-color: black;
+}
+.four{  
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: black;
+   border-bottom-color: black;
+}
+.five{
+    border-top-color: black;
+    border-left-color: white;
+    border-right-color: black;
+   border-bottom-color: black;
+}
+.six{  
+    border-top-color: white;
+    border-left-color: black;
+    border-right-color: white;
+   border-bottom-color: black;
+}
+.seven{  
+    border-top-color: white;
+    border-left-color: black;
+    border-right-color: black;
+   border-bottom-color: black;
+}
+.eight{  
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: black;
+   border-bottom-color: black;
+}
+
